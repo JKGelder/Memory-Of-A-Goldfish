@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">金魚の記憶</string>
+    <string name="welcome_text">\"金魚の記憶 \"へようこそ</string>
+    <string name="new_game">新しいゲーム始め</string>
+    <string name="old_game">古いゲーム続ける</string>
+    <string name="game_choice">タイルを選ぶ</string>
+    <string name="choose_another">別のカードを選択する</string>
+    <string name="match">これらのカードは同じ</string>
+    <string name="no_match">これらのカードは同じではありません</string>
+    <string name="congratulations">おめでとうございます、あなたはすべてのカードと一致しました. 点数:</string>
+</resources>

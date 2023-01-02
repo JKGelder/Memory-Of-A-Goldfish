@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Memory Of A Goldfish</string>
+    <string name="welcome_text">Welcome To Memory Of A Goldfish</string>
+    <string name="new_game">Start A New Game</string>
+    <string name="old_game">Continue An Old Game</string>
+    <string name="game_choice">Choose which tiles to play with</string>
+    <string name="choose_another">Choose a different card</string>
+    <string name="match">Those cards match!</string>
+    <string name="no_match">Those cards do not match</string>
+    <string name="congratulations">Congratulations, you matched all the pairs in this many tries:</string>
+
+
+</resources>
